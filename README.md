@@ -1,9 +1,9 @@
 
-##__Programmin in C# Self Study Reference__
+# __Programmin in C# Self Study Reference__
 
 This list contains links to resources for the 70-483 Programming in C# Certification Exam.
 
-##Implement data access (25-30)%
+## Implement data access (25-30)%
 - Serialise and deserialise data
 	- Serialise and deserialise data by using:
 		- [binary serialisation](www.google.com)
