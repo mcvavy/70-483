@@ -16,6 +16,12 @@ This list contains links to resources for the 70-483 Programming in C# Certifica
 		- [XML Serializer](https://docs.microsoft.com/en-us/dotnet/framework/serialization/xml-and-soap-serialization)
 		- [JSON Serializer](https://docs.microsoft.com/en-us/dotnet/framework/wcf/feature-details/how-to-serialize-and-deserialize-json-data) 
 		- [Data Contract Serializer](https://docs.microsoft.com/en-us/dotnet/framework/wcf/feature-details/data-contract-serializer)
+		
+
+- ### Store data in and retrieve data from collections
+	- [use typed vs. non-typed collections]()
+	- [implement custom collections](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections#BKMK_CustomCollection)
+	- [implement collection interfaces](http://www.informit.com/articles/article.aspx?p=171028&seqNum=4)
 
 
 
