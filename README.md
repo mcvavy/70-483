@@ -3,12 +3,26 @@
 
 This list contains links to resources for the 70-483 Programming in C# Certification Exam.
 
-
+## Create and use types (25-30)%
+- ### Find, execute and create types at runtime by using reflection
+	- [Create and apply attributes](https://docs.microsoft.com/en-us/dotnet/standard/attributes/writing-custom-attributes)
+	- [Create and apply attributes](https://www.codeproject.com/Articles/827091/Csharp-Attributes-in-minutes)
+	- [read attributes](https://docs.microsoft.com/en-us/dotnet/standard/attributes/retrieving-information-stored-in-attributes)
+	- [generate code at runtime by using CodeDom and lambda expressions](https://docs.microsoft.com/en-us/dotnet/framework/reflection-and-codedom/using-the-codedom)
+	- [use types from the System.Reflection namespace (Assembly, PropertyInfo, MethodInfo, Type)](https://app.pluralsight.com/library/courses/practical-reflection-dotnet/table-of-contents)
+	
+	
+## Debug applications and implement security (25-30)%
+- ### Perform symmetric and asymmetric encryption
+	- [PluralSight Course](https://app.pluralsight.com/library/courses/practical-cryptography-dotnet/table-of-contents)
+	
+	
 ## Implement data access (25-30)%
 - ### Perform I/O operations
 	- [Read and write files and streams](https://docs.microsoft.com/en-us/dotnet/standard/io/)
 	- [read and write from the network by using classes in the System.Net namespace](https://docs.microsoft.com/en-us/dotnet/framework/network-programming/using-streams-on-the-network)
 	- [implement asynchronous I/O operations](https://docs.microsoft.com/en-us/dotnet/standard/io/asynchronous-file-i-o)
+	
 	
 - ### Query and manipulate data and objects by using LINQ
 	- [create and modify data structures by using LINQ to XML](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/basic-queries-linq-to-xml)
