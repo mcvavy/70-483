@@ -3,6 +3,9 @@
 
 This list contains links to resources for the 70-483 Programming in C# Certification Exam.
 
+## Programming in C# Jump Start - [Watch here](https://mva.microsoft.com/en-us/training-courses/programming-in-c-jump-start-14254?l=j0iuozSfB_6900115888)
+This video tutorial is provided for free my Microsoft. It's quite lengthy. I personally did not go through all the video one after another since I have been working with C# for years now and I am familair with most of the topics, but could be use for someone. I definitely pick up some stuffs from here though.
+
 ## Create and use types (25-30)%
 - ### Find, execute and create types at runtime by using reflection
 	- [Create and apply attributes](https://docs.microsoft.com/en-us/dotnet/standard/attributes/writing-custom-attributes)
@@ -15,6 +18,13 @@ This list contains links to resources for the 70-483 Programming in C# Certifica
 ## Debug applications and implement security (25-30)%
 - ### Perform symmetric and asymmetric encryption
 	- [PluralSight Course](https://app.pluralsight.com/library/courses/practical-cryptography-dotnet/table-of-contents)
+	
+- ### Manage assemblies
+	- [Version assemblies]()
+	- [sign assemblies using strong names](https://www.youtube.com/watch?v=p6u7n_BPcVw&list=PL8598C97BA1D871C1&index=3&t=11s)
+	- [implement side-by-side hosting](https://www.youtube.com/watch?v=FYmRrEYyhCM&list=PL8598C97BA1D871C1&index=4)
+	- [put an assembly in the global assembly cache](https://www.youtube.com/watch?v=FYmRrEYyhCM&list=PL8598C97BA1D871C1&index=4)
+	- [create a WinMD assembly]()
 	
 	
 ## Implement data access (25-30)%
