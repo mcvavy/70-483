@@ -26,6 +26,9 @@ This video tutorial is provided for free my Microsoft. It's quite lengthy. I per
 	- [put an assembly in the global assembly cache](https://www.youtube.com/watch?v=FYmRrEYyhCM&list=PL8598C97BA1D871C1&index=4)
 	- [create a WinMD assembly]()
 	
+	### Extras
+	[Delay Signing an Assembly](https://docs.microsoft.com/en-us/dotnet/framework/app-domains/delay-sign-assembly)
+	
 	
 ## Implement data access (25-30)%
 - ### Perform I/O operations
