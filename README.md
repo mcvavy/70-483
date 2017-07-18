@@ -17,6 +17,7 @@ This video tutorial is provided for free my Microsoft. It's quite lengthy. I per
 	
 - ### Manage the object lifecycle
 	- Manage unmanaged resources; implement IDisposable, including interaction with finalisation; manage IDisposable by using the Using statement; manage finalisation and garbage collection
+	- [GC class](https://docs.microsoft.com/en-gb/dotnet/api/system.gc?view=netframework-4.5)
 	- [PluralSight: IDisposable Best Practices for C# Developers](https://app.pluralsight.com/library/courses/idisposable-best-practices-csharp-developers/table-of-contents)
 	- [Cleaning Up Unmanaged Resources](https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/unmanaged)
 	
