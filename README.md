@@ -15,9 +15,16 @@ This video tutorial is provided for free my Microsoft. It's quite lengthy. I per
 	- [use types from the System.Reflection namespace (Assembly, PropertyInfo, MethodInfo, Type)](https://app.pluralsight.com/library/courses/practical-reflection-dotnet/table-of-contents)
 	
 	
+- ### Manage the object lifecycle
+	- Manage unmanaged resources; implement IDisposable, including interaction with finalisation; manage IDisposable by using the Using statement; manage finalisation and garbage collection
+	- [IDisposable](https://app.pluralsight.com/library/courses/idisposable-best-practices-csharp-developers/table-of-contents)
+	- [Cleaning Up Unmanaged Resources](https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/unmanaged)
+	
+	
 ## Debug applications and implement security (25-30)%
 - ### Perform symmetric and asymmetric encryption
 	- [PluralSight Course](https://app.pluralsight.com/library/courses/practical-cryptography-dotnet/table-of-contents)
+	- [Disposable pattern, Dispose Vs Finalize](https://www.youtube.com/watch?v=cZtgIwHLJmc)
 	
 - ### Manage assemblies
 	- [Version assemblies]()
