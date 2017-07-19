@@ -15,7 +15,7 @@ This video tutorial is provided for free my Microsoft. It's quite lengthy. I per
 	- [use types from the System.Reflection namespace (Assembly, PropertyInfo, MethodInfo, Type)](https://app.pluralsight.com/library/courses/practical-reflection-dotnet/table-of-contents)
 	
 	
-- ### Manage the object lifecycle
+- ### Objective 2.6: Manage the object lifecycle
 	Manage unmanaged resources; implement IDisposable, including interaction with finalisation; manage IDisposable by using the Using statement; manage finalisation and garbage collection
 	- [GC class](https://docs.microsoft.com/en-gb/dotnet/api/system.gc?view=netframework-4.5)
 	- [PluralSight: IDisposable Best Practices for C# Developers](https://app.pluralsight.com/library/courses/idisposable-best-practices-csharp-developers/table-of-contents)
