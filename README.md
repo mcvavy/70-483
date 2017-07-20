@@ -21,6 +21,9 @@ This video tutorial is provided for free my Microsoft. It's quite lengthy. I per
 	- [PluralSight: IDisposable Best Practices for C# Developers](https://app.pluralsight.com/library/courses/idisposable-best-practices-csharp-developers/table-of-contents)
 	- [Cleaning Up Unmanaged Resources](https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/unmanaged)
 	
+	Extras
+	- [Enum Flags](http://hugoware.net/blog/enums-flags-and-csharp)
+	
 	
 ## Debug applications and implement security (25-30)%
 - ### Perform symmetric and asymmetric encryption
