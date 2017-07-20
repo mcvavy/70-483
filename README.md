@@ -22,7 +22,7 @@ This video tutorial is provided for free my Microsoft. It's quite lengthy. I per
 	- [Cleaning Up Unmanaged Resources](https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/unmanaged)
 	
 	Extras
-	- [Enum Flags](http://hugoware.net/blog/enums-flags-and-csharp)
+	- Enum Flags [Link1](http://hugoware.net/blog/enums-flags-and-csharp) [Link2](https://www.codeproject.com/Articles/396851/Ending-the-Great-Debate-on-Enum-Flags)
 	
 	
 ## Debug applications and implement security (25-30)%
