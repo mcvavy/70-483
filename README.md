@@ -47,6 +47,8 @@ This video tutorial is provided for free my Microsoft. It's quite lengthy. I per
 	- [read and write from the network by using classes in the System.Net namespace](https://docs.microsoft.com/en-us/dotnet/framework/network-programming/using-streams-on-the-network)
 	- [implement asynchronous I/O operations](https://docs.microsoft.com/en-us/dotnet/standard/io/asynchronous-file-i-o)
 	
+	Extras: [Working with Files, Folders, & Directories](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/file-system/how-to-iterate-through-a-directory-tree)
+	
 	
 - ### Query and manipulate data and objects by using LINQ
 	- [create and modify data structures by using LINQ to XML](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/basic-queries-linq-to-xml)
