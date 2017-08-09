@@ -28,6 +28,7 @@ This video tutorial is provided for free my Microsoft. It's quite lengthy. I per
 - ### Objective 2.7: Manipulate Strings
 	Manipulate strings by using the StringBuilder, StringWriter and StringReader classes; search strings; enumerate string methods; format strings
 	- [Formatting Types in .NET](https://docs.microsoft.com/en-us/dotnet/standard/base-types/formatting-types)
+	- [String C# formatting](http://azuliadesigns.com/string-formatting-examples/)
 	
 	
 ## Debug applications and implement security (25-30)%
