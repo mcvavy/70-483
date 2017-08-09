@@ -25,6 +25,11 @@ This video tutorial is provided for free my Microsoft. It's quite lengthy. I per
 	- Enum Flags [Link1](http://hugoware.net/blog/enums-flags-and-csharp) [Link2](https://www.codeproject.com/Articles/396851/Ending-the-Great-Debate-on-Enum-Flags)
 	
 	
+- ### Objective 2.7: Manipulate Strings
+	Manipulate strings by using the StringBuilder, StringWriter and StringReader classes; search strings; enumerate string methods; format strings
+	- [Formatting Types in .NET](https://docs.microsoft.com/en-us/dotnet/standard/base-types/formatting-types)
+	
+	
 ## Debug applications and implement security (25-30)%
 - ### Perform symmetric and asymmetric encryption
 	- [PluralSight Course](https://app.pluralsight.com/library/courses/practical-cryptography-dotnet/table-of-contents)
